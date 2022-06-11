@@ -1,4 +1,4 @@
-# Simple CO2 censor
+# Simple CO2 sensor
 
 Simple implementation of MH-Z19c with atmega328p.
 
